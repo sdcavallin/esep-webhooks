@@ -3,4 +3,5 @@ C:\Users\sdcav\OneDrive\Documents\Coding\Gojo\esep-webhooks\EsepWebhook\src\Esep
 C:\Users\sdcav\OneDrive\Documents\Coding\Gojo\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.pdb
 C:\Users\sdcav\OneDrive\Documents\Coding\Gojo\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
 C:\Users\sdcav\OneDrive\Documents\Coding\Gojo\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\sdcav\OneDrive\Documents\Coding\Gojo\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Newtonsoft.Json.dll
 C:\Users\sdcav\OneDrive\Documents\Coding\Gojo\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.dll
